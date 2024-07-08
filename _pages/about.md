@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a 23-year-old first-year graduate student pass
 
 ## 📫 How to reach me
 
-- [Email](QQ:1830166401.@qq.com)
+- Email：1830166401.@qq.com
 
 ## 💼 Skills
 
