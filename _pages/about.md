@@ -9,7 +9,7 @@ redirect_from:
 
 # Hi there, I'm Kun Li 👋
 
-Welcome to my GitHub profile! I'm a 23-year-old first-year graduate student passionate about academic research and technological innovation. I enjoy diving into new areas of knowledge and constantly challenging myself to learn and grow.
+Welcome to my GitHub profile! I'm a first-year graduate student passionate about academic research and technological innovation. I enjoy diving into new areas of knowledge and constantly challenging myself to learn and grow.
 
 ## 🔭 What I'm working on
 
